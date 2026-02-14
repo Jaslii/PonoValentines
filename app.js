@@ -16,10 +16,10 @@ const SETTINGS = {
     "Happy Valentine’s Day, my stinky. 💖",
 
   photos: [
-    { src: "images/V_1.JPG", cap: "One of our first pictures !" },
+    { src: "images/V_1.jpg", cap: "One of our first pictures !" },
     { src: "images/V_2.jpg", cap: "A personal fav teehee" },
     { src: "images/V_3.jpg", cap: "Joji Concert !!!" },
-    { src: "images/V_4.JPG", cap: "My FIRST concert ever ^^" },
+    { src: "images/V_4.jpg", cap: "My FIRST concert ever ^^" },
     { src: "images/V_5.jpg", cap: "We're so CYUTTE" },
     { src: "images/V_6.jpg", cap: "We look so swaggylicious" },
     { src: "images/V_7.jpg", cap: "You look so yummy mwahaha" },
